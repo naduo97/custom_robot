@@ -3,6 +3,7 @@
 #include <QDebug>
 #include <termios.h>
 // Xiaomi Pro 的改动
+// Airs_Linux 的改动
 namespace CustomsRobot{
 Robot::Robot()
     : pRobotStateData_(nullptr)
