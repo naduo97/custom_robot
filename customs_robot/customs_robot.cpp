@@ -2,7 +2,7 @@
 #include <iostream>
 #include <QDebug>
 #include <termios.h>
-
+// Xiaomi Pro 的改动
 namespace CustomsRobot{
 Robot::Robot()
     : pRobotStateData_(nullptr)
