@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>png/connect.png</file>
+        <file>png/discon.png</file>
+        <file>png/enableInit.bas</file>
+    </qresource>
+</RCC>
